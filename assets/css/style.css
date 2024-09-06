@@ -1,0 +1,21 @@
+
+.load{
+    position: fixed;
+    z-index: 5;
+    left: 50%;
+    top: 44%;
+    display: none;
+}
+table.DatosTable tr th{
+    padding: 5px 12px !important;
+    font-size: 15px;
+}
+table.DatosTable tr td{
+    padding: 5px 12px !important;
+    font-size: 13px;
+}
+label.error {
+    color: red;
+    font-style: italic;
+    font-size: 14px;
+}
